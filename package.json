@@ -1,0 +1,7 @@
+{
+  "name": "mcc-mnc-list-js",
+  "version": "1.0.0",
+  "description": "lookup table for mccmnc",
+  "main": "index.js",
+  "license": "ISC"
+}
