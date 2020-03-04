@@ -10540,7 +10540,7 @@ const OPERATORS = {
     {
       bands: 'GSM 900 / GSM 1800 / UMTS 900 / LTE 800 / LTE 1800 / LTE 2600',
       mcc: '240',
-      operator: 'TeliaSonera Sverige AB',
+      operator: 'Telia Sverige AB',
       mnc: '01',
     },
   ],
@@ -13732,7 +13732,7 @@ const OPERATORS = {
     {
       bands: 'GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 700 / LTE 800 / LTE 1800 / LTE 2600',
       mcc: '244',
-      operator: 'TeliaSonera Finland Oyj',
+      operator: 'Telia Finland Oyj',
       mnc: '91',
     },
   ],
@@ -13740,7 +13740,7 @@ const OPERATORS = {
     {
       bands: 'Unknown',
       mcc: '244',
-      operator: 'TeliaSonera Finland Oyj',
+      operator: 'Telia Finland Oyj',
       mnc: '92',
     },
   ],
@@ -17554,7 +17554,7 @@ const OPERATORS = {
     {
       bands: 'GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600',
       mcc: '242',
-      operator: 'TeliaSonera Norge AS',
+      operator: 'Telia Norge AS',
       mnc: '02',
     },
   ],
@@ -17562,7 +17562,7 @@ const OPERATORS = {
     {
       bands: 'GSM 900 / UMTS 900 / UMTS 2100',
       mcc: '242',
-      operator: 'TeliaSonera Norge AS',
+      operator: 'Telia Norge AS',
       mnc: '05',
     },
   ],
@@ -19416,7 +19416,7 @@ const OPERATORS = {
     {
       bands: 'GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600',
       mcc: '244',
-      operator: 'TeliaSonera Finland Oyj / Suomen Yhteisverkko Oy',
+      operator: 'Telia Finland Oyj / Suomen Yhteisverkko Oy',
       mnc: '36',
     },
   ],
